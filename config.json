@@ -1,11 +1,12 @@
 {
-    "token": "Your bot token here",
+    "token": "MjczNTY5MTY4NjM5NTI0ODY2.C8gJ1g.B1BWBaIx132STWc-uow7xK8JxLg",
     "stream": "https://listen.moe/stream",
     "streamInfo": "wss://listen.moe/api/v2/socket",
     "ua": "Listen.moe Discord v0.2.0 (https://github.com/WeebDev/listen.moe-discord)",
     "owners": [
-        "User ID who should have access to eval",
-        "You can put multiples here"
+        "218822170539720704",
+        "262642564694278145",
+        "202742268082257921"
     ],
     "ravenKey": "Just leave this as is if you dont use Sentry and comment out the Raven.install() and Raven.config(config.ravenKey)"
 }
